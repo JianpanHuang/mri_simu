@@ -1,5 +1,5 @@
 %% This is a demo code for the MRI part of the course BME2103
-% Function: Simulate the magnetization precession under B0.
+% To simulate the magnetization precession under B0.
 % Author: Dr. Jianpan Huang, Email: jianpanhuang@outlook.com, 20230214
 clear all, close all, clc;
 

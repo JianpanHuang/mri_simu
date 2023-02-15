@@ -1,5 +1,5 @@
 %% This is a demo code for the MRI part of the course BME2103
-% Function: Simulate the magnetization relaxation under B0 after the 90 RF pulse (B1) excitation.
+% To simulate the magnetization relaxation under B0 after the 90 RF pulse (B1) excitation.
 % Author: Dr. Jianpan Huang, Email: jianpanhuang@outlook.com, 20230214
 clear all, close all, clc;
 
