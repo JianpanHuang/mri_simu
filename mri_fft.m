@@ -1,5 +1,5 @@
 %% This is a demo code for the MRI part of the course BME2103
-% To demonstrate the Fourier transform of image to k-space, and vice versa.
+% To demonstrate the Fourier transform of an image to a k-space, and vice versa.
 % Author: Dr. Jianpan Huang, Email: jianpanhuang@outlook.com, 20230214
 clear all, close all, clc;
 

@@ -1,5 +1,5 @@
 %% This is a demo code for the MRI part of the course BME2103
-% To demonstrate the Fourier transform of free induction decay (FID) to NMR spectrum.
+% To demonstrate the Fourier transform of a free induction decay (FID) to an NMR spectrum.
 % To be note: The data is a synthesized data not a real NMR data.
 % Author: Dr. Jianpan Huang, Email: jianpanhuang@outlook.com, 20230214
 clear all, close all, clc;
