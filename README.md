@@ -1,5 +1,5 @@
 # mri_simu
-This repository contains Matlab code for the MRI part of the BME2103 course.
+This repository contains Matlab codes of MRI for educational purposes
 
 magn1: Simulate the magnetization precession under B0.
 
