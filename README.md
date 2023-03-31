@@ -1,5 +1,5 @@
 # mri_simu
-This repository contains Matlab codes of MRI for educational purposes
+This repository contains Matlab codes for MRI for educational purpose
 
 magn1: Simulate the magnetization precession under B0.
 
